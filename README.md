@@ -1,4 +1,4 @@
-# oil-gas-logistics-analytics
+# Oil-gas-logistics-analytics
 Logistics and supply chain cost analysis built with MySQL, Excel, and Power BI — covering transportation efficiency, inventory turnover, warehouse utilization, and supplier performance.
 
 SQL Layer — abc_logistics
@@ -30,7 +30,7 @@ What each query gives you
 9.Demurrage cost as a % of transport spend
 10.Road shipments that could realistically shift to pipeline
 
-# Ecel layer
+# Excel layer
 
 Create a proper blank workspace and get all the generated csv imported in dofferent sheets
 also make some new sheets namely
