@@ -1,0 +1,5 @@
+transport_mode_id,mode_name,base_cost_per_ton_km,avg_speed_kmph
+1,Road,4.8,45
+2,Rail,2.6,55
+3,Pipeline,1.4,30
+4,Sea,1.9,25

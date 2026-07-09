@@ -1,0 +1,6 @@
+product_id,product_name,unit,value_per_ton_inr
+1,Crude Oil,tons,38000
+2,Natural Gas,tons,42000
+3,Diesel (HSD),tons,61000
+4,Petrol (MS),tons,68000
+5,LPG,tons,55000

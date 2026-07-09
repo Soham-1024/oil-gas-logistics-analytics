@@ -1,0 +1,9 @@
+supplier_id,supplier_name,mode_specialization,contract_rate_per_km_inr,fleet_size
+1,Bharat Freight Carriers,Road,57.82,116
+2,IndRoad Logistics,Road,50.89,106
+3,Trident Rail Cargo,Rail,43.28,119
+4,Coastal Sea Movers,Sea,38.68,93
+5,Apex Tankers Pvt Ltd,Road,55.81,52
+6,National Pipeline Services,Pipeline,45.86,30
+7,Suvidha Transport Co.,Road,40.04,111
+8,Ganga Logistics Group,Rail,44.97,111

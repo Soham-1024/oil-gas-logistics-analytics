@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,region,state,capacity_tons,fixed_cost_monthly_inr,warehouse_type
+1,WES-WH01,Western,Maharashtra,42037,552853,Depot
+2,WES-WH02,Western,Maharashtra,18476,255961,Tank Farm
+3,SOU-WH03,Southern,Tamil Nadu,45308,397291,Terminal
+4,CEN-WH04,Central,Madhya Pradesh,34018,461304,Depot
+5,SOU-WH05,Southern,Tamil Nadu,28925,308354,Terminal
+6,NOR-WH06,Northern,Rajasthan,12791,107225,Depot
+7,CEN-WH07,Central,Chhattisgarh,22391,280974,Depot
+8,SOU-WH08,Southern,Andhra Pradesh,11531,154039,Terminal
+9,SOU-WH09,Southern,Tamil Nadu,47514,513166,Tank Farm
+10,NOR-WH10,Northern,Rajasthan,36421,440631,Tank Farm
+11,CEN-WH11,Central,Chhattisgarh,27065,269430,Terminal
+12,CEN-WH12,Central,Madhya Pradesh,11969,109358,Depot
+13,NOR-WH13,Northern,Rajasthan,43696,409058,Depot
+14,NOR-WH14,Northern,Uttar Pradesh,56895,739411,Depot
+15,SOU-WH15,Southern,Tamil Nadu,13055,169630,Tank Farm
