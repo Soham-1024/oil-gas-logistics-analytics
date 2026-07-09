@@ -1,4 +1,3 @@
-
 CREATE DATABASE abc_logistics;
 USE abc_logistics;
 
